@@ -1,0 +1,6 @@
+
+-Rails for Zombies- [~2 Hours]
+Interactive tutorial for Rails. 
+Mix of videos and in browser lessons. 
+Broken into six lessons: 5-10 minute vides, 10-30 minute exercise.
+http://railsforzombies.org/
