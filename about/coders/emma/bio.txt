@@ -3,3 +3,5 @@ Hi, I'm Emma
 I like coding things that make a difference
 
 Skills: C, Python, MySQL, PHP
+
+Excited to learn more about web development and github
