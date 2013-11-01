@@ -3,7 +3,7 @@ Code4Sac Git Workshop
 
 Purpose
 ----------------
-Learn how to use git by... using git!
+Learn how to use git by... Using git!
 
 The purpose of this repository is to allow new members to become familar with Git. Feel free to push, pull, fork, and otherwise modify to your heart's content. 
 
